@@ -2,7 +2,7 @@ import requests
 from urllib.parse import unquote
 import json
 import math
-Code By XieSiYu
+# Code By XieSiYu
 # 校招官网 https://xskydata.jobs.feishu.cn/school
 BaseUrl = "https://xskydata.jobs.feishu.cn/api/v1/search/job/posts"
 
